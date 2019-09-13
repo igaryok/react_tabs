@@ -1,1 +1,0 @@
-{"version":3,"sources":["App.css","Tabs.css"],"names":[],"mappings":"AAAA,KACE,iBACF,CCFA,SACE,eAAgB,CAChB,iBACF","file":"main.b61d89ea.chunk.css","sourcesContent":[".App {\n  text-align: center;\n}\n",".content {\n  text-align: left;\n  padding-left: 10px;\n}\n"]}
